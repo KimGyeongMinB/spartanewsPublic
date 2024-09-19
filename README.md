@@ -201,7 +201,8 @@ python manage.py runserver
 
 
 ## 8. API명세
-![api명세 0919](https://github.com/user-attachments/assets/41b1cd32-0bd5-4698-9a90-18655da2d0b0)
+![api명세 0919 2242](https://github.com/user-attachments/assets/6695048c-aebb-4496-9afc-2a7ba466791a)
+
 
 
 
